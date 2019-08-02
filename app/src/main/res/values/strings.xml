@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dishes</string>
+    <string-array name="items">
+        <item>Veg</item>
+        <item>Non-veg</item>
+        <item>Chinese</item>
+        <item>Add-ons</item>
+        <item>Dessert</item>
+        <item>Drinks</item>
+    </string-array>
+</resources>
